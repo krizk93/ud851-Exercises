@@ -30,7 +30,7 @@ public class TaskContract {
         3) Path(s) to the tasks directory
         4) Content URI for data in the TaskEntry class
       */
-
+    final public int x = 0;
     // The authority, which is how your code knows which Content Provider to access
     public static final String AUTHORITY = "com.example.android.todolist";
 
